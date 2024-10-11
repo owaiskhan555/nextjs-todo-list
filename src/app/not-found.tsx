@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function notFound() {
+export default function NotFound() {
   return (
     <div className="h-screen w-full bg-slate-900" >
       <Image src="/download 2.png" alt="image" height={249} width={271} className=' absolute z-10 left-20 top-20'/>
